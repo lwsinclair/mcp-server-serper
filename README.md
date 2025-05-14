@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/marcopesani-mcp-server-serper-badge.png)](https://mseep.ai/app/marcopesani-mcp-server-serper)
+
 # Serper Search and Scrape MCP Server
 [![smithery badge](https://smithery.ai/badge/@marcopesani/mcp-server-serper)](https://smithery.ai/server/@marcopesani/mcp-server-serper)
 
